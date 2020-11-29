@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/feihong/slam_project/cxx/cmake_helloworld/build",
+  "command": "/usr/local/bin/g++-9   -I/usr/local/include -I/usr/local/include/opencv  -g   -o CMakeFiles/helloworld.dir/src/helloworld.cpp.o -c /Users/feihong/slam_project/cxx/cmake_helloworld/src/helloworld.cpp",
+  "file": "/Users/feihong/slam_project/cxx/cmake_helloworld/src/helloworld.cpp"
+},
+{
+  "directory": "/Users/feihong/slam_project/cxx/cmake_helloworld/build",
+  "command": "/usr/local/bin/g++-9   -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -o CMakeFiles/DisplayImage.dir/src/display.cpp.o -c /Users/feihong/slam_project/cxx/cmake_helloworld/src/display.cpp",
+  "file": "/Users/feihong/slam_project/cxx/cmake_helloworld/src/display.cpp"
+}
+]
