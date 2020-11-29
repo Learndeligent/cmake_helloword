@@ -1,4 +1,4 @@
-/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles/helloworld.dir
-/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles/rebuild_cache.dir
-/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles/edit_cache.dir
-/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles/DisplayImage.dir
+/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles/helloworld.dir
+/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles/rebuild_cache.dir
+/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles/edit_cache.dir
+/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles/DisplayImage.dir

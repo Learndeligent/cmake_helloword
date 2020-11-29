@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.15.4/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/feihong/slam_project/cxx/cmake_helloworld
+CMAKE_SOURCE_DIR = /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/feihong/slam_project/cxx/cmake_helloworld/build
+CMAKE_BINARY_DIR = /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

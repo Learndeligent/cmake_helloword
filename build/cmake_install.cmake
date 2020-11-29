@@ -1,4 +1,4 @@
-# Install script for directory: /Users/feihong/slam_project/cxx/cmake_helloworld
+# Install script for directory: /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/feihong/slam_project/cxx/cmake_helloworld/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

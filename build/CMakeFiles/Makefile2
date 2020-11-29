@@ -54,10 +54,10 @@ RM = /usr/local/Cellar/cmake/3.15.4/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/feihong/slam_project/cxx/cmake_helloworld
+CMAKE_SOURCE_DIR = /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/feihong/slam_project/cxx/cmake_helloworld/build
+CMAKE_BINARY_DIR = /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -75,7 +75,7 @@ clean: CMakeFiles/DisplayImage.dir/clean
 CMakeFiles/helloworld.dir/all:
 	$(MAKE) -f CMakeFiles/helloworld.dir/build.make CMakeFiles/helloworld.dir/depend
 	$(MAKE) -f CMakeFiles/helloworld.dir/build.make CMakeFiles/helloworld.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles --progress-num=3,4 "Built target helloworld"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles --progress-num=3,4 "Built target helloworld"
 .PHONY : CMakeFiles/helloworld.dir/all
 
 # Include target in all.
@@ -85,9 +85,9 @@ all: CMakeFiles/helloworld.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/helloworld.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/helloworld.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles 0
 .PHONY : CMakeFiles/helloworld.dir/rule
 
 # Convenience name for target.
@@ -107,7 +107,7 @@ CMakeFiles/helloworld.dir/clean:
 CMakeFiles/DisplayImage.dir/all:
 	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/depend
 	$(MAKE) -f CMakeFiles/DisplayImage.dir/build.make CMakeFiles/DisplayImage.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles --progress-num=1,2 "Built target DisplayImage"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles --progress-num=1,2 "Built target DisplayImage"
 .PHONY : CMakeFiles/DisplayImage.dir/all
 
 # Include target in all.
@@ -117,9 +117,9 @@ all: CMakeFiles/DisplayImage.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DisplayImage.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/DisplayImage.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/cmake_helloworld/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/feihong/slam_project/cxx/GIT_test/cmake_helloword/build/CMakeFiles 0
 .PHONY : CMakeFiles/DisplayImage.dir/rule
 
 # Convenience name for target.
